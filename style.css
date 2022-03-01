@@ -187,4 +187,38 @@ article .article2 {
   height: 100px;
   background-color: gray;
 }
+
+.social1 {
+  color: #990000;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.social2 {
+  color: #55004e;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.social3 {
+  color: #0fa8a1;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.social4 {
+  color: #121456;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.social5 {
+  color: #64c217;
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+.footer {
+  background-color: green;
+}
 /*# sourceMappingURL=style.css.map */
